@@ -49,7 +49,7 @@ Explain the guidelines required for new contributors for them to successfully st
 4. Push your changes to the feature branch `git push origin feature/NewFeature`
 5. Open a Pull Request
 
-You can also add a `contributing.md` file.
+You can also add a [`contributing.md`](CONTRIBUTING.md) file.
 
 ## Support
 
