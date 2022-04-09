@@ -14,7 +14,7 @@ List any prerequisites to get started with the project. For example:
 
 * npm
   ```sh
-  npm install npm@latest -g
+  $ npm install npm@latest -g
   ```
 * Flask
   ```sh
@@ -27,11 +27,11 @@ Detail each step required to perform a local installation of the project to star
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/{your_username}/{project-name}.git
+   $ git clone https://github.com/{your_username}/{project-name}.git
    ```
 2. Install NPM dependencies:
    ```sh
-   npm install
+   $ npm install
    ```
 3. Any further steps.
 
